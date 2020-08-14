@@ -1,4 +1,4 @@
-# flight-search
+# Url-Shortener-Vue-Electron
 
 ## Project setup
 ```
