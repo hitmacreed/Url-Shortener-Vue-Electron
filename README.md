@@ -1,4 +1,5 @@
 # Url-Shortener-Vue-Electron
+![](Screenshot_1.png)
 
 ## Project setup
 ```
